@@ -6,6 +6,7 @@ Abstraction Library commonly referred to as __gdal__.
 ![alt text](https://i.imgur.com/kinVvZSm.png)
 ***
 [Examples to work with gdal in python](https://pcjericks.github.io/py-gdalogr-cookbook/geometry.html)
+
 [Gdal library methods](https://gdal.org/python/osgeo.ogr.Geometry-class.html)
 
 ## What can you do with this code?
